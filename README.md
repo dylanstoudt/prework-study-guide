@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - To achieve a good grade I completed a study guide
 - I wanted to source information learned into an easy to read webpage
 - I have notes in one spot
-- I learned different conceptws of HTML, CSS, and JavaScript
+- I learned different concepts of HTML, CSS, and JavaScript
 
 ## Installation
 
